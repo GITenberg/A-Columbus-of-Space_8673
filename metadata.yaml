@@ -1,0 +1,31 @@
+_repo: A-Columbus-of-Space_8673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: Just as Christopher Columbus's journeys to the new world changed human
+  civilization forever, so too would the power to travel freely across the universe
+  alter the parameters of our collective existence. Garrett P. Serviss's tale of a
+  group of intrepid explorers who harness what they call ""inter-atomic energy"" to
+  travel from Earth to Venus is a fun, fast read.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Columbus of Space
+url: http://www.gutenberg.org/ebooks/8673
